@@ -1,0 +1,30 @@
+body {
+    background-color: #181818;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.mapa {
+    border: 1px solid #444;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.boton {
+    background-color: #2a7fff;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.boton:hover {
+    background-color: #0055cc;
+}
+
